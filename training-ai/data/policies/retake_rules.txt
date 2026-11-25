@@ -1,0 +1,1 @@
+An employee may attempt an assessment up to 3 times. After the third failed attempt the employee must repeat the course. The pass mark is 80%.

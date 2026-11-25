@@ -1,0 +1,31 @@
+id,title,description,skills
+C001,Workplace Safety Essentials,Core safety rules for offices and sites: hazard spotting and incident reporting and safe behaviour,workplace safety;hazard identification
+C002,Fire Safety and Evacuation,How to prevent fires and use extinguishers and evacuate a building calmly,fire safety;evacuation
+C003,First Aid at Work,Basic first aid skills including CPR and treating cuts and burns until help arrives,first aid;emergency response
+C004,Manual Handling and Ergonomics,Lifting safely and setting up a desk and screen to avoid back and neck injury,manual handling;ergonomics
+C005,Hazardous Substances Awareness,Reading chemical labels and storing and handling hazardous materials safely,hazard communication;chemical safety
+C006,Data Handling Basics,How to collect and store and share personal data lawfully under privacy rules,data privacy;data protection
+C007,GDPR for Practitioners,Applying GDPR principles such as consent and data subject rights and breach notification,gdpr;data privacy;compliance
+C008,Cybersecurity Awareness,Recognising threats and keeping devices and accounts secure at work,cybersecurity awareness;device security
+C009,Spotting Phishing Emails,Identify fake emails and links and report suspicious messages quickly,phishing;cybersecurity awareness
+C010,Password and Access Hygiene,Strong passwords and multi-factor authentication and safe access to systems,password hygiene;access control
+C011,Code of Conduct and Ethics,Our values and expected behaviour and how to raise ethical concerns,code of conduct;ethics
+C012,Anti-Bribery and Corruption,Recognising bribes and gifts and facilitation payments and what to do about them,anti-bribery;compliance
+C013,Conflicts of Interest,Declaring and managing personal interests that could affect business decisions,conflict of interest;ethics
+C014,Preventing Workplace Harassment,Understanding harassment and bullying and how to respond and report,anti-harassment;respectful workplace
+C015,Diversity and Inclusion,Building inclusive teams and recognising unconscious bias in daily decisions,diversity and inclusion;unconscious bias
+C016,Effective Business Communication,Writing clear emails and running clear conversations and listening actively,communication;writing skills
+C017,Presentation Skills,Structuring and delivering confident presentations to small and large audiences,presentation skills;public speaking
+C018,Time Management and Prioritisation,Plan your week and set priorities and protect focus time,time management;prioritisation
+C019,Leading Your First Team,Core people leadership for new managers including delegation and feedback,leadership;delegation
+C020,Coaching Conversations,Using questions and feedback to develop team members,coaching;feedback
+C021,Project Management Fundamentals,Scoping and planning and tracking projects with simple tools,project management;planning
+C022,Agile and Scrum Basics,Working in sprints with backlogs and stand-ups and retrospectives,agile;scrum
+C023,Excel for Business,Formulas and pivot tables and charts for everyday reporting,excel;reporting
+C024,SQL for Analysts,Query databases with SELECT and JOIN and GROUP BY to answer business questions,sql;data analysis
+C025,Data Analysis and Storytelling,Turning data into insight and presenting findings with clear charts,data analysis;data visualisation
+C026,Customer Service Excellence,Handling customer questions and complaints with empathy and clarity,customer service;empathy
+C027,Negotiation Skills,Preparing and running negotiations that reach fair agreements,negotiation;persuasion
+C028,Conflict Resolution,Calming disagreements and finding workable solutions between colleagues,conflict resolution;mediation
+C029,Risk Management Basics,Identifying and rating and mitigating business risks,risk management;compliance
+C030,Business Continuity Planning,Preparing to keep services running during outages and disasters,business continuity;risk management

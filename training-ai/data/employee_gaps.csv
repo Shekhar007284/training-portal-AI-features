@@ -1,0 +1,11 @@
+employee_id,name,department,missing_skills
+E1001,Aarav Mehta,Finance,data privacy;excel
+E1002,Priya Nair,Operations,workplace safety;first aid
+E1003,Rohan Verma,IT Support,cybersecurity awareness;phishing;password hygiene
+E1004,Sneha Reddy,HR,anti-harassment;diversity and inclusion
+E1005,Karan Singh,Sales,negotiation;presentation skills;customer service
+E1006,Ananya Iyer,Analytics,sql;data visualisation
+E1007,Vikram Rao,Operations,fire safety;manual handling
+E1008,Divya Kapoor,Legal,anti-bribery;conflict of interest;gdpr
+E1009,Manish Gupta,Engineering,agile;project management
+E1010,Lakshmi Menon,Customer Care,conflict resolution;communication

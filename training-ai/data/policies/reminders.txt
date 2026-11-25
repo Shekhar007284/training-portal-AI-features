@@ -1,0 +1,1 @@
+Employees are reminded 30 days and 7 days before a certificate expires, and 3 days before a course due date.
